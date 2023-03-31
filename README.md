@@ -7,7 +7,7 @@
 <br/>
 
 <h2>✅ Experience and knowledge</h2>
- As they say "Experience does not appear with words, but with concrete results and examples" so for that, I present to you my website, which I coded letter by letter <a href='https://rnxcode.com'><span>RNX</span>Code</a>
+ <font size="5">As they say "Experience does not appear with words, but with concrete results and examples" so for that, I present to you my website, which I coded letter by letter <a href='https://rnxcode.com'><span>RNX</span>Code</a></font>
  <br/>
  <br/>
  <br/>
