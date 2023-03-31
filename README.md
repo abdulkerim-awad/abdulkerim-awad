@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi There! I'm Abdulkerim Awad.</h2>  
 
 <h2>✅ Overview</h2>
-I'm a front-end designer/developer very interested in React, single-page applications, Email marketing mockups, and landing pages.
+<h6>I'm a front-end designer/developer very interested in React, single-page applications, Email marketing mockups, and landing pages.</h6>
 <br/>
 <br/>
 <br/>
