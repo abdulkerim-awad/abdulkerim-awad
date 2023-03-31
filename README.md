@@ -7,18 +7,20 @@
 <br/>
 
 <h2>✅ Experience and knowledge</h2>
- <font size="5">As they say "Experience does not appear with words, but with concrete results and examples" so for that, I present to you my website, which I coded letter by letter <a href='https://rnxcode.com'><span>RNX</span>Code</a></font>
+ <strong>As they say "Experience does not appear with words, but with concrete results and examples" so for that, I present to you my website, which I coded letter by letter <a href='https://rnxcode.com'><span>RNX</span>Code</a></strong>
  <br/>
  <br/>
  <br/>
 
 <h2>✅ My Skill Keywords</h2>
+<strong>
 ⚡ HTML, HTML5 <br/>
 ⚡ CSS, CSS3 <br/>
 ⚡ JavaScript, ECMAScript6 <br/>
 ⚡ SCSS <br/>
 ⚡ Bootstrap, TailwindCSS <br/>
 ⚡ React.js <br/>
+ </strong>
 <br/>
 <br/>
 <br/>
