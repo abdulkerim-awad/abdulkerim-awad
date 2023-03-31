@@ -2,17 +2,23 @@
 
 <h2>✅ Overview</h2>
 I'm a front-end designer/developer very interested in React, single-page applications, Email marketing mockups, and landing pages.
+<br/>
+<br/>
 
 <h2>✅ Experience and knowledge</h2>
  As they say "Experience does not appear with words, but with concrete results and examples" so for that, I present to you my website, which I coded letter by letter <a href='https://rnxcode.com'><span>RNX</span>Code</a>
+ <br/>
+ <br/>
 
 <h2>✅ My Skill Keywords</h2>
 ⚡ HTML, HTML5
 ⚡ CSS, CSS3
-⚡ JavaScript, EcmaScript6
+⚡ JavaScript, ECMAScript6
 ⚡ SCSS
 ⚡ Bootstrap, TailwindCSS
 ⚡ React.js
+<br/>
+<br/>
 
 <h2>✅ Find Me At:</h2>
 <div>
