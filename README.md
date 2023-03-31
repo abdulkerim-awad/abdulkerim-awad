@@ -1,18 +1,18 @@
 <h2 align="center">👋 Hi There! I'm Abdulkerim Awad.</h2>  
 
-<h2>✅ Overview</h2>
-### I'm a front-end designer/developer very interested in React, single-page applications, Email marketing mockups, and landing pages.
+<h3>✅ Overview</h2>
+I'm a front-end designer/developer very interested in React, single-page applications, Email marketing mockups, and landing pages.
 <br/>
 <br/>
 <br/>
 
-<h2>✅ Experience and knowledge</h2>
+<h3>✅ Experience and knowledge</h2>
  As they say "Experience does not appear with words, but with concrete results and examples" so for that, I present to you my website, which I coded letter by letter <a href='https://rnxcode.com'><span>RNX</span>Code</a>
  <br/>
  <br/>
  <br/>
 
-<h2>✅ My Skill Keywords</h2>
+<h3>✅ My Skill Keywords</h2>
 ⚡ HTML, HTML5 <br/>
 ⚡ CSS, CSS3 <br/>
 ⚡ JavaScript, ECMAScript6 <br/>
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-<h2>✅ Find Me At:</h2>
+<h3>✅ Find Me At:</h2>
 <div>
     <a href="https://www.linkedin.com/in/abdulkerim-awad-92652321a/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
